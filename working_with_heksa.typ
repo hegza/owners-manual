@@ -9,9 +9,17 @@
 - Overview of My Role and Responsibilities
 
 = Communication Preferences
-- Preferred Communication Channels (Email, Slack, In-person, etc.)
-- Response Time Expectations
-- Best Times to Reach Me
+
+- *If you'd like a quick response as soon as possible:* use Signal for work
+  related communications. I'm reachable also via Teams but I look at it less due
+  to accessibility issues.
+- *If you'd like a well thought-out response:* use email, or open an issue in a
+  repository and ping me.
+
+I read my IMs daily, and email at least once a week (on Thursday). I tend to
+read my instant messengers (IM) only when I'm ready to respond, so don't worry
+if there's a bit of a delay. I'm most engaged with communication between 12 and
+17.
 
 = Meeting Preferences
 
